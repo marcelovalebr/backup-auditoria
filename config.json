@@ -1,0 +1,10 @@
+{
+    "diretorio_backup": "/caminho/para/diretorio",
+    "destino_backup": "/caminho/para/destino",
+    "email_notificacao": true,
+    "email_usuario": "seuemail@example.com",
+    "email_senha": "sua_senha",
+    "email_servidor": "smtp.example.com",
+    "email_porta": 465,
+    "email_destinatario": "destinatario@example.com"
+}
